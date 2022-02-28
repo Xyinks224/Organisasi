@@ -35,7 +35,7 @@ class UserSeeder extends Seeder
                 'nomor_induk'   => '1234',
                 'nomor_wa'      => '1234',
                 'alamat'        => 'malang',
-                'id_angkatans'  => '1',
+                'id_angkatans'  => 1,
                 'email'         => 'yukikitori5@gmail.com',
                 'password'      => Hash::make('12345678'),
                 'level'         => 2,
